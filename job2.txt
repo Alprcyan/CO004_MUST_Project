@@ -1,0 +1,4 @@
+0	./while1	3
+2	./while1 	6
+9	sleep 2	10
+10	./timer 18	10

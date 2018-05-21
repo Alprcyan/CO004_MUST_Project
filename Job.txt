@@ -1,0 +1,4 @@
+0	./while1	3
+2	./while1 	6
+1	pwd	10
+1	echo i\'m not trying to make this command as long as possible.	10
